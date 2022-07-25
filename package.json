@@ -1,5 +1,5 @@
 {
-  "name": "@button-template/reactnative-buttoncomponent",
+  "name": "@hetalshukla/reactnative-buttoncomponent",
   "version": "1.0.0",
   "description": "A react native component that lets you use Button with different types of props.",
   "main": "src/index.tsx",
